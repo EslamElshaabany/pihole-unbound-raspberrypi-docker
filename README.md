@@ -11,7 +11,7 @@ This project sets up Pi-hole with Unbound using Docker on a Raspberry Pi, provid
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/EslamElshaabany/pihole-unbound-raspberrypi-docker.git
+   git clone https://github.com/EslamElshaabany/pihole-unbound-raspberrypi-docker.git && cd pihole-unbound-raspberrypi-docker
    ```
 
 2. **Download Root Hints**:
