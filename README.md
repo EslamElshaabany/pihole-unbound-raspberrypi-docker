@@ -17,7 +17,7 @@ This project sets up Pi-hole with Unbound using Docker on a Raspberry Pi, provid
 2. **Download Root Hints**:
    Fetch the latest DNS root hints file for Unbound:
    ```bash
-   wget https://www.internic.net/domain/named.root -qO- > root.hints
+   wget https://www.internic.net/domain/named.root -q -O root.hints
    ```
 
 3. **Run the Containers**:
